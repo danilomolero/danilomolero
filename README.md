@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @danilomolero  
+- 👀 I’m interested in AI, LLMs, database structures, and cloud computing.  
+- 🌱 I’m currently learning advanced AWS services and AI reasoning.   
+- 💞️ I’m looking to collaborate on AI assistants, data automation, and cloud-based solutions.  
+- 📫 How to reach me: danilo.molero@outlook.com 
