@@ -1,6 +1,5 @@
 # Danilo Molero
 
-I'm a technology professional interested in ML, Large Language Models (LLMs), advanced database structures, and cloud computing. 
-Currently expanding my skills in Cloud, LLM Reasoning, MCP and WebDevelopment
+let's do some computer stuff
 
 **Contact:** [danilo.molero@outlook.com](mailto:danilo.molero@outlook.com)
