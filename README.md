@@ -1,5 +1,5 @@
 # Danilo Molero
 
-let's do some computer stuff.
+tech is really something.
 
 [danilo.molero@outlook.com](mailto:danilo.molero@outlook.com)
